@@ -1,0 +1,5 @@
+[console_scripts]
+a_star.py = my_robot_planner.a_star:main
+dwa.py = my_robot_planner.dwa:main
+global_planner_node.py = my_robot_planner.global_planner_node:main
+local_planner_node.py = my_robot_planner.local_planner_node:main
